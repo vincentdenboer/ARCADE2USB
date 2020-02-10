@@ -12,7 +12,7 @@
 //                                                                      //
 //////////////////////////////////////////////////////////////////////////
 
-#include "Keyboard.h" //include the library used for keyboard commands
+#include "Keyboard.h" //include the library used for keyboard commands test
 
 void setup() 
 {
